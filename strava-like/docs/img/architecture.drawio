@@ -91,6 +91,12 @@
         <mxCell id="ab8k0UaCrqn81Ppzx6OQ-35" value="Analytics / Data Pipeline" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/432/664/png-transparent-computer-icons-service-management-enterprise-resource-planning-services-hand-service-people.png;" vertex="1" parent="1">
           <mxGeometry x="730" y="299" width="51" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab8k0UaCrqn81Ppzx6OQ-32" target="ab8k0UaCrqn81Ppzx6OQ-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="250" as="sourcePoint" />
+            <mxPoint x="779" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
