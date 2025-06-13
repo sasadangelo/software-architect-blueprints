@@ -28,3 +28,7 @@ This blueprint breaks down the system’s architecture and components, including
 
 1. [Requirements](docs/requirements.md)
 2. [Architecture](docs/architecture.md)
+
+## References
+
+1. [How to Architect a Fitness App with Social Features like Strava?](https://www.weblineindia.com/blog/build-fitness-app-like-strava/)
