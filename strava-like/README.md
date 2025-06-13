@@ -28,6 +28,8 @@ This blueprint breaks down the system’s architecture and components, including
 
 1. [Requirements](docs/requirements.md)
 2. [Architecture](docs/architecture.md)
+3. [Component Design](docs/component-design.md)
+
 
 ## References
 
