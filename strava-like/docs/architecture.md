@@ -54,6 +54,8 @@ The system uses a polyglot persistence approach — relational databases for tra
 
 ### Entity Relationship Diagram (conceptual):
 
+![ER Diagram](img/er-diagram.png)
+
 ## 2. Database Technology Choices
 
 Each data domain is optimized for its access pattern:
