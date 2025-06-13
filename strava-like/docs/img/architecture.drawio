@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram name="Page-1" id="20TpZeHbLAgNBTvCsvqe">
+    <mxGraphModel dx="1235" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-3" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Cellphone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="10" y="224" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab8k0UaCrqn81Ppzx6OQ-3" target="ab8k0UaCrqn81Ppzx6OQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="260" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-8" value="API Gateway" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/040/980/892/non_2x/api-integration-icon-line-illustration-vector.jpg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="239" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-10" value="Auth Service" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/432/664/png-transparent-computer-icons-service-management-enterprise-resource-planning-services-hand-service-people.png;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab8k0UaCrqn81Ppzx6OQ-8" target="ab8k0UaCrqn81Ppzx6OQ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="450" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-13" value="User Profile Service" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/432/664/png-transparent-computer-icons-service-management-enterprise-resource-planning-services-hand-service-people.png;" vertex="1" parent="1">
+          <mxGeometry x="270" y="253" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-15" value="Activity Service" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/432/664/png-transparent-computer-icons-service-management-enterprise-resource-planning-services-hand-service-people.png;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-17" value="Social Graph Service" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/432/664/png-transparent-computer-icons-service-management-enterprise-resource-planning-services-hand-service-people.png;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab8k0UaCrqn81Ppzx6OQ-8" target="ab8k0UaCrqn81Ppzx6OQ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="298" as="sourcePoint" />
+            <mxPoint x="280" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab8k0UaCrqn81Ppzx6OQ-8" target="ab8k0UaCrqn81Ppzx6OQ-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="260" as="sourcePoint" />
+            <mxPoint x="290" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab8k0UaCrqn81Ppzx6OQ-15" target="ab8k0UaCrqn81Ppzx6OQ-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="310" as="sourcePoint" />
+            <mxPoint x="310" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-22" value="Feed Generator Service" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/432/664/png-transparent-computer-icons-service-management-enterprise-resource-planning-services-hand-service-people.png;" vertex="1" parent="1">
+          <mxGeometry x="510" y="289" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-24" value="Media Service" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/432/664/png-transparent-computer-icons-service-management-enterprise-resource-planning-services-hand-service-people.png;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-25" value="Notification Service" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/432/664/png-transparent-computer-icons-service-management-enterprise-resource-planning-services-hand-service-people.png;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab8k0UaCrqn81Ppzx6OQ-17" target="ab8k0UaCrqn81Ppzx6OQ-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="350" as="sourcePoint" />
+            <mxPoint x="449" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab8k0UaCrqn81Ppzx6OQ-17" target="ab8k0UaCrqn81Ppzx6OQ-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="431" as="sourcePoint" />
+            <mxPoint x="549" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ab8k0UaCrqn81Ppzx6OQ-22" target="ab8k0UaCrqn81Ppzx6OQ-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="500" as="sourcePoint" />
+            <mxPoint x="589" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-32" value="Challenge &amp; Leadboard Engine" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/432/664/png-transparent-computer-icons-service-management-enterprise-resource-planning-services-hand-service-people.png;" vertex="1" parent="1">
+          <mxGeometry x="730" y="170" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab8k0UaCrqn81Ppzx6OQ-25" target="ab8k0UaCrqn81Ppzx6OQ-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="344" as="sourcePoint" />
+            <mxPoint x="624" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab8k0UaCrqn81Ppzx6OQ-35" value="Analytics / Data Pipeline" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/432/664/png-transparent-computer-icons-service-management-enterprise-resource-planning-services-hand-service-people.png;" vertex="1" parent="1">
+          <mxGeometry x="730" y="299" width="51" height="51" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
