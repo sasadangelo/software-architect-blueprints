@@ -27,3 +27,4 @@ This blueprint breaks down the system’s architecture and components, including
 ## Table of Contents
 
 1. [Requirements](docs/requirements.md)
+2. [Architecture](docs/architecture.md)
