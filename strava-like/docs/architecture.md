@@ -20,7 +20,7 @@ The system is structured around the following main components:
 
 ## 2. High-Level Architecture Diagram
 
-![Architecture Diagram](image/architecture.png)
+![Architecture Diagram](img/architecture.png)
 
 ## 3. Data Flow Summary
 
