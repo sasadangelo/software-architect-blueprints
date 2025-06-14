@@ -5,6 +5,7 @@
 The platform is a hybrid between a **fitness tracker** and a **social network**, targeting a wide spectrum of users — from casual walkers to competitive cyclists. Its primary value proposition lies not in raw telemetry, but in **community-driven engagement**.
 
 ### Strategic Goals:
+
 - Increase **retention** and **daily active usage** through:
   - Social accountability
   - Gamification (badges, challenges, streaks)
@@ -15,6 +16,7 @@ The platform is a hybrid between a **fitness tracker** and a **social network**,
   - **In-app commerce**: Gear marketplace with affiliate links (e.g., wearables, shoes, bikes)
 
 ### Product Philosophy:
+
 Users should derive value even on rest days — whether through cheering on friends, joining virtual events, or exploring shared goals — creating a **habit-forming platform** beyond workout logging.
 
 ---
@@ -27,12 +29,18 @@ Users should derive value even on rest days — whether through cheering on frie
 | **Social Enthusiasts** | Frequent posters and commenters, motivated by interaction        | Feed, comments, kudos, clubs                                 |
 | **Club Managers**      | Organize events and build micro-communities                      | Private clubs, event scheduling, moderation                  |
 | **Data Nerds**         | Premium-tier subscribers with deep analytics needs               | Heart-rate zones, power curves, GPX exports, VO₂ predictions |
+| **Coach**              | Memeber who coach other athlete                                  | His athlete data                                             |
 
 Each persona interacts with the app differently, requiring a **multi-modal architecture** that serves both **real-time social flows** and **data-intensive post-processing**.
 
 ---
 
-## 3. Expected Scale
+## 3. Use Case Scenario
+
+1. [Authentication scenarios](auth/auth.md)
+
+
+## 4. Expected Scale
 
 To serve a growing user base while maintaining responsiveness, the platform must scale across multiple axes:
 
@@ -51,6 +59,7 @@ To serve a growing user base while maintaining responsiveness, the platform must
   - Cadence / power sensors
 
 ### Engagement & Social Graph Load
+
 - **Millions of daily feed queries**
 - **Hundreds of thousands of social interactions/day** (kudos, comments, follows)
 - **Real-time notifications** for challenges, mentions, and club updates
