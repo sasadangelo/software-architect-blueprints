@@ -78,7 +78,7 @@ Users can log in either via:
 
 In both cases, the system returns a JWT including user roles.
 
-### Sequence Diagram — Proprietary Login
+### Sequence Diagram — Proprietary Login
 
 ```mermaid
 sequenceDiagram
@@ -95,7 +95,7 @@ sequenceDiagram
     Frontend-->>User: Login success
 ```
 
-### Sequence Diagram — OAuth Login
+### Sequence Diagram — OAuth Login
 
 ```mermaid
 sequenceDiagram
@@ -148,6 +148,7 @@ sequenceDiagram
     UserService-->>AuthService: Confirmation
     AuthService-->>AdminPortal: Role updated
     AdminPortal-->>Admin: Success message
+```
 
 ## Summary
 
