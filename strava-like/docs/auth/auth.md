@@ -23,7 +23,7 @@ sequenceDiagram
     participant UserService
     participant EmailService
 
-    User->>Frontend: Submit registration (email, password)
+    User->>Frontend: Submit registration (first name, last name, email, password)
     Frontend->>AuthService: Create user request
     AuthService->>UserService: Create user with MEMBER role, inactive status
     UserService-->>AuthService: Confirmation
