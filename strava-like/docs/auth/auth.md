@@ -69,7 +69,7 @@ sequenceDiagram
     Frontend-->>User: Access granted
 ```
 
-## 2. Login
+## 2. Login
 
 Users can log in either via:
 
