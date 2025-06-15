@@ -2,7 +2,7 @@
 
 ## 1. Registration
 
-### Proprietary Registration (Email + Password)
+### Proprietary Registration (First name, Last name, Email, Password)
 
 Users register by providing email and password. After registration, an **email validation** step is required before the account is fully active.
 
