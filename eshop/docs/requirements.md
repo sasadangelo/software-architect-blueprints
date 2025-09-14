@@ -27,10 +27,10 @@ This document describes the system requirements for a prototype eShop applicatio
 ## Non-Functional Requirements (NFR)
 
 1. **Availability**
-   - The service must be available 24/7, even though it is a prototype.
+   - The service must be available on demand when a demo is required.
 
 2. **Performance**
-   - The UI must respond to user actions without noticeable delays (≤ 1s for in-memory operations).
+   - The UI must respond to user actions without noticeable delays. For a prototype minimum latency it's not required.
 
 3. **Usability**
    - The interface must be simple and intuitive, with clear navigation between the product list, cart, and order confirmation.

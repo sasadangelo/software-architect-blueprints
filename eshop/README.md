@@ -25,7 +25,7 @@ This blueprint breaks down the system’s architecture and components, including
 ## Table of Contents
 
  1. [Requirements](docs/requirements.md)
- 2. [Use Case / Scenario](docs/use-case-scenario.md)
+ 2. [Use Case / Scenario](docs/use-cases-scenarios.md)
  3. [Architecture](docs/architecture.md)
  4. [Component Design](docs/component-design.md)
  5. [Scalability](docs/scalability.md)
