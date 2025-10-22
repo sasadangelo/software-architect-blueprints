@@ -37,6 +37,7 @@ This blueprint breaks down the system’s architecture and components, including
 11. [Monitoring & Observability](docs/observability.md)
 12. [Trade-offs & Design Decisions](docs/design-decision.md)
 13. [Key Takeaways & Areas to Improve](docs/takeaway.md)
+14. [Development Setup](docs/development.md)
 
 ## References
 
