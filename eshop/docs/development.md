@@ -26,7 +26,23 @@ npm run dev
 
 You should see output indicating that the backend is running.
 
-## 2. UI (Frontend)
+## 2. Test Backend
+
+To run the backend test, it should be running.
+
+1. Open a terminal and go to the `test/backend` folder:
+
+```bash
+cd test/backend
+```
+
+1. Run the command:
+
+```bash
+./test.sh
+```
+
+## 3. UI (Frontend)
 
 1. Go to the ui folder:
 
